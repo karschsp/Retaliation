@@ -1,6 +1,6 @@
 ## RETALIATION - A Jenkins "Extreme Feedback" Contraption
 
-*Lava Lamps are for pussies! Retaliate to a broken build with a barrage of foam missiles.*
+*Retaliate to a broken build with a barrage of foam missiles.*
 
 ### Summary
 
